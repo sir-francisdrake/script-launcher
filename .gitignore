@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Launcher runtime state (user-specific)
+config.json
+logs/
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
